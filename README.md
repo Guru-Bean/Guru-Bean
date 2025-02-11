@@ -1,7 +1,5 @@
-<h1>Hi there, I'm Karim Elsisi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>FullStack Web Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-
-![](https://komarev.com/ghpvc/?username=K-Mo2&color=blueviolet)
 
 
 
@@ -24,7 +22,6 @@ I'm a full-stack web developer.
 
 <br/><br/>
 
-![Karim Elsisi GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Mo2&show_icons=true&theme=midnight-purple)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K-Mo2&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&fire=DD1B46&dates=2CD2DD&currStreakLabel=DD1B46&currStreakNum=DD1B46)](https://git.io/streak-stats)
 
