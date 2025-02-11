@@ -17,15 +17,7 @@
 - **Languages**: JavaScript, TypeScript, Rust, Python, Golang, C/C++, Java, Solidity
 - **Frameworks**: Anchor, Druid, Rocket, Hardhat, Gin, Spring, Next.js
 - **Tools**: Git, Docker, CI/CD pipelines
-- **Blockchain**: Deep understanding of Solana and Ethereum architecture and DeFi protocols
-
-<br/><br/>
-
-<div align="center"> <a href="https://github.com/K-Mo2"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Mo2&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
- 
- <hr/>
+- **Blockchain**: Deep understanding of Solana and Ethereum architecture and DeFi protocols 
   
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:
 
