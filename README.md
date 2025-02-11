@@ -6,11 +6,11 @@
 
 ## About me 🤵
 
-I am a **senior web developer** offering over 5 years of relevant experience in Web development and Blockchain.
-Leveraged my local creative efforts to deal with most difficult problems and have successfully achieved my goals.
-Have developed multiple projects using various programming languages like SPA Framework(React, Vue, Node), Laravel, Python, Django, and also have plenty life-long experiences on all kinds of contract development languages such as solidity, EtherJS, Web3JS.
-One of my strengths is the ability to be flexible, easy to adjust my style to the new environment and have always successded in adapting. I thrive on challenge and work independently.
-Over a decade off career makes me to give high priority on customer satisfaction, easy going and comfortable in agile environments.
+- 🔭 I am a **senior web developer** offering over 5 years of relevant experience in Web development and Blockchain.
+- 🌱 Leveraged my local creative efforts to deal with most difficult problems and have successfully achieved my goals.
+- 💻 Have developed multiple projects using various programming languages like SPA Framework(React, Vue, Node), Laravel, Python, Django, and also have plenty life-long experiences on all kinds of contract development languages such as solidity, EtherJS, Web3JS.
+- 🛠️ One of my strengths is the ability to be flexible, easy to adjust my style to the new environment and have always successded in adapting. I thrive on challenge and work independently.
+- ⚡ Over a decade off career makes me to give high priority on customer satisfaction, easy going and comfortable in agile environments.
 
 ## Skills 🧑‍💻
 
