@@ -2,17 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
-<h2 align="center">FullStack Web Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2 align="center">A passionate software developer 💻</h2>
 
-<img align='right' src="./programmer.gif" width="230">
+## About me 🤵
 
-## About me
-
-I am a senior web developer offering over 5 years of relevant experience in Web development and Blockchain.
+I am a **senior web developer** offering over 5 years of relevant experience in Web development and Blockchain.
 Leveraged my local creative efforts to deal with most difficult problems and have successfully achieved my goals.
 Have developed multiple projects using various programming languages like SPA Framework(React, Vue, Node), Laravel, Python, Django, and also have plenty life-long experiences on all kinds of contract development languages such as solidity, EtherJS, Web3JS.
 One of my strengths is the ability to be flexible, easy to adjust my style to the new environment and have always successded in adapting. I thrive on challenge and work independently.
 Over a decade off career makes me to give high priority on customer satisfaction, easy going and comfortable in agile environments.
+
+## Skills 🧑‍💻
+
+- **Languages**: JavaScript, TypeScript, Rust, Python, Golang, C/C++, Java, Solidity
+- **Frameworks**: Anchor, Druid, Rocket, Hardhat, Gin, Spring, Next.js
+- **Tools**: Git, Docker, CI/CD pipelines
+- **Blockchain**: Deep understanding of Solana and Ethereum architecture and DeFi protocols
 
 <br/><br/>
 
