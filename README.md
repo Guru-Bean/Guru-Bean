@@ -80,4 +80,4 @@
 
 ![github contribution grid snake animation](https://github.com/Guru-Bean/Guru-Bean/blob/master/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
+<img align="right" alt="Coding" width="320" src="https://github.com/Guru-Bean/Guru-Bean/blob/master/assets/Cat-animation.gif">
