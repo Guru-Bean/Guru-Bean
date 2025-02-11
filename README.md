@@ -96,8 +96,7 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/yasir-shahzad/yasir-shahzad/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/Guru-Bean/Guru-Bean/blob/master/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 [![Bean's github stats](https://bad-apple-github-readme.vercel.app/api?username=yasir-shahzad&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
 [![Bean's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
