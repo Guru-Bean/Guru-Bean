@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gurubean519
-- 📐 I'm a civil/structural engineer specializing in the design, development and construction of global power and water infrastructure projects.
-- 🔍 **Interests:** Dedicated to leveraging Python for automating and optimizing civil and structural engineering tasks.
-- 🤝 **Collaboration:** Open to partnerships that focus on creating efficient engineering scripts and tools for real-world design challenges.
+- 📐 I'm a software engineer specializing in the design, development of python projects.
+- 🔍 **Interests:** Robust backend, web applications, AI driven solutions.
+- 🤝 **Collaboration:** Open to partnerships that focus on creating efficient engineering scripts.
