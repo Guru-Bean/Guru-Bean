@@ -17,7 +17,10 @@
 - **Languages**: JavaScript, TypeScript, Rust, Python, Golang, C/C++, Java, Solidity
 - **Frameworks**: Anchor, Druid, Rocket, Hardhat, Gin, Spring, Next.js
 - **Tools**: Git, Docker, CI/CD pipelines
-- **Blockchain**: Deep understanding of Solana and Ethereum architecture and DeFi protocols 
+- **Blockchain**: Deep understanding of Solana and Ethereum architecture and DeFi protocols
+
+## 💻 Tech Stack :
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
   
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:
 
